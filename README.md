@@ -1,6 +1,6 @@
 # ClassAuto_midterm
 
-2026 성신여자대학교 자율이동체시스템 수업 중간고사 대체 과제  
+2026 자율이동체시스템 수업 중간고사 대체 과제  
 KITTI Odometry Dataset을 이용한 Bayesian 기반 도로/차선 검출 및 카메라 기하학 분석
 
 베이스 코드: [auto_class_2_BayesianClassifier.ipynb](https://github.com/yangjunahn/ClassAuto/blob/main/auto_class_2_BayesianClassifier.ipynb)
