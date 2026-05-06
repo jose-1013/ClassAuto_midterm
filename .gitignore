@@ -1,0 +1,9 @@
+data_odometry_gray/
+data_odometry_calib/
+data_odometry_poses/
+outputs/
+venv/
+venv38/
+Ultra-Fast-Lane-Detection/pretrained/
+__pycache__/
+*.pyc
